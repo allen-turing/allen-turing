@@ -3,7 +3,7 @@
 <h3 align="center">A passionate computer science graduate from India</h3>
   
 <p align="center">
-  <img src="https://gpvc.arturio.dev/bashishjha">
+  <img src="https://gpvc.arturio.dev/allen-turing">
 </p>
 
 - 🌱 I’m currently learning **Redux, Express, JavaScript, etc.**
