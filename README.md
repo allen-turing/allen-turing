@@ -6,7 +6,7 @@
   <img src="https://gpvc.arturio.dev/allen-turing">
 </p>
 
-- 🌱 I’m currently learning **Redux, Express, JavaScript, etc.**
+- 🌱 I’m currently learning **.NET, .NETCore, Jquery,JavaScript, etc.**
 
 - 👨‍💻 All of my projects are available at [**Github**](https://github.com/allen-turing?tab=repositories)
 
@@ -21,7 +21,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java)
+![C#](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=Java)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
 <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
