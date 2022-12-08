@@ -6,7 +6,9 @@
   <img src="https://gpvc.arturio.dev/allen-turing">
 </p>
 
-- 🌱 I’m currently learning **.NET, .NETCore, Jquery,JavaScript, etc.**
+- 🌱 I’m currently working as a Software Development Engineer at [**CareStack**](https://carestack.com/)
+
+- 💡 Having skills in **.NET, .NETCore, Jquery,JavaScript,MySQL etc.**
 
 - 👨‍💻 All of my projects are available at [**Github**](https://github.com/allen-turing?tab=repositories)
 
