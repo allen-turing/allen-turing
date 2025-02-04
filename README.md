@@ -6,7 +6,7 @@
   <img src="https://gpvc.arturio.dev/allen-turing">
 </p>
 
-- 🌱 I’m currently working as a Software Development Engineer at [**CareStack**](https://carestack.com/)
+- 🌱 I’m currently working as a Software Development Engineer at [**MediaValet**](https://www.mediavalet.com/)
 
 - 💡 Having skills in **.NET, .NETCore, Jquery,JavaScript,MySQL etc.**
 
@@ -15,7 +15,7 @@
 - 💬 Ask me about **C#**
 - 💬 Ask me about **C++**
 
-- 📫 How to reach me [**Gmail**](prtshkmr866@gmail.com)
+- 📫 How to reach me [**Gmail**](97o4zdilv@mozmail.com)
 
 
   
