@@ -1,12 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Pratyush Kumar Singh</h1>
 <h3 align="center">A passionate computer science graduate from India</h3>
-  
-<p align="center">
-  <img src="https://gpvc.arturio.dev/allen-turing">
-</p>
 
-- 🌱 I’m currently working as a Software Development Engineer at [**MediaValet**](https://www.mediavalet.com/)
+![](https://komarev.com/ghpvc/?username=allen-turing&label=PROFILE+VIEWS)
+
+- 🌱 I’m currently working as a Senior Software Development Engineer at [**MediaValet**](https://www.mediavalet.com/)
 
 - 💡 Having skills in **.NET, .NETCore, Jquery,JavaScript,MySQL etc.**
 
@@ -20,7 +18,6 @@
 
   
 ### 🛠 &nbsp;Languages and Tools
-
 ![C#](https://img.shields.io/badge/-csharp-61DAFB?style=for-the-badge&logo=csharp&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jquery-38B2AC?style=for-the-badge&logo=jquery&logoColor=white)
